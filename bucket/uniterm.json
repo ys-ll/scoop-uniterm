@@ -1,12 +1,12 @@
 {
-  "version": "1.4.1",
+  "version": "1.9.5",
   "description": "Lightweight all-in-one terminal emulator with built-in AI Agent",
   "homepage": "https://uniterm.net",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ys-ll/uniterm/releases/download/v1.4.1/uniterm-windows-amd64-portable-v1.4.1.zip",
-      "hash": "sha256:e14e1be6abf86ff79d431d9c964154fe5d59a2445d9f4093f0d9f211438225fd"
+      "url": "https://github.com/ys-ll/uniterm/releases/download/v1.9.5/uniterm-windows-amd64-portable-v1.9.5.zip",
+      "hash": "sha256:3eb162e756e21fc39d5b7ad0e1e7a9423f94f84fcaa5cdcc6567631379c55500"
     }
   },
   "bin": "uniTerm.exe",
